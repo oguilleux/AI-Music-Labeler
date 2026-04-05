@@ -1414,6 +1414,448 @@
       "reason": "reported",
       "source": "https://en.wikipedia.org/wiki/Pentakill",
       "notes": "Virtual metal band by Riot Games from League of Legends."
+    },
+    {
+      "displayName": "Mellow Uploads",
+      "normalizedName": "mellow uploads",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UC6twP2UR0yFpPqrvN0SBxdQ"
+        ],
+        "youtube": [
+          "UC6twP2UR0yFpPqrvN0SBxdQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "NOIRÉ",
+      "normalizedName": "noire",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UC8sVyMIectdVyVg8cVA7nbg"
+        ],
+        "youtube": [
+          "UC8sVyMIectdVyVg8cVA7nbg"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Velvet Skies",
+      "normalizedName": "velvet skies",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UC-d6LyZmAvaFMAdrRubjz6w"
+        ],
+        "youtube": [
+          "UC-d6LyZmAvaFMAdrRubjz6w"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "SoundSphere001",
+      "normalizedName": "soundsphere001",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCOFpuGJpChiJGw7JE3gKVkQ"
+        ],
+        "youtube": [
+          "UCOFpuGJpChiJGw7JE3gKVkQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "🔸RKB MUSIC🔸",
+      "normalizedName": "rkb music",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UC2tHDXC_k1fwDiR12_vaFmA"
+        ],
+        "youtube": [
+          "UC2tHDXC_k1fwDiR12_vaFmA"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "The Wiz 250",
+      "normalizedName": "the wiz 250",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCZRVCr-Y6XGHXp2SCRY330w"
+        ],
+        "youtube": [
+          "UCZRVCr-Y6XGHXp2SCRY330w"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "24 BEATS",
+      "normalizedName": "24 beats",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCMRHjc9mh2hH6o1brdE94gw"
+        ],
+        "youtube": [
+          "UCMRHjc9mh2hH6o1brdE94gw"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "SingNow",
+      "normalizedName": "singnow",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UC5KQL2UihYiMM3kkmmUpvHQ"
+        ],
+        "youtube": [
+          "UC5KQL2UihYiMM3kkmmUpvHQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Trance Flow",
+      "normalizedName": "trance flow",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCxbd-5VXApQB0VGZSru6_6A"
+        ],
+        "youtube": [
+          "UCxbd-5VXApQB0VGZSru6_6A"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "gmsuvo",
+      "normalizedName": "gmsuvo",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCBB_k0v_YxswS2EZchxo1VQ"
+        ],
+        "youtube": [
+          "UCBB_k0v_YxswS2EZchxo1VQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "ตะวันยังมีให้เห็น",
+      "normalizedName": "",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCqNY_dpbG_avcZtudpVEhjw"
+        ],
+        "youtube": [
+          "UCqNY_dpbG_avcZtudpVEhjw"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Sound Dealer Samples",
+      "normalizedName": "sound dealer samples",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCSSIZXTXOTURL3eOMAA8ozw"
+        ],
+        "youtube": [
+          "UCSSIZXTXOTURL3eOMAA8ozw"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Melodies of Love and Longing",
+      "normalizedName": "melodies of love and longing",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCRXZvnT71Bh7nrS2hIX9z3Q"
+        ],
+        "youtube": [
+          "UCRXZvnT71Bh7nrS2hIX9z3Q"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "The [REC]Vibe",
+      "normalizedName": "the rec vibe",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCrAXxqBOJrcodocR12a2h9w"
+        ],
+        "youtube": [
+          "UCrAXxqBOJrcodocR12a2h9w"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Soulful & Broken",
+      "normalizedName": "soulful broken",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCJ24gpd6MmLlNX6IX58NHaA"
+        ],
+        "youtube": [
+          "UCJ24gpd6MmLlNX6IX58NHaA"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "EK Lyrics",
+      "normalizedName": "ek lyrics",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCyNufJxv2B5mH2HM1d2l5EA"
+        ],
+        "youtube": [
+          "UCyNufJxv2B5mH2HM1d2l5EA"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "G-Funk Vibes",
+      "normalizedName": "g funk vibes",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCDr9d9GwTXmWKjq8dHcawjw"
+        ],
+        "youtube": [
+          "UCDr9d9GwTXmWKjq8dHcawjw"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Music Melody",
+      "normalizedName": "music melody",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCEvk8DObeiLDXSoEHRoNz0w"
+        ],
+        "youtube": [
+          "UCEvk8DObeiLDXSoEHRoNz0w"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "king_Sound",
+      "normalizedName": "king_sound",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCJ5K-lm9nxb_0dMSWOFpx0Q"
+        ],
+        "youtube": [
+          "UCJ5K-lm9nxb_0dMSWOFpx0Q"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Ziva AI Diva",
+      "normalizedName": "ziva ai diva",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCz8E46kbSzVLVUtmkgqQB9A"
+        ],
+        "youtube": [
+          "UCz8E46kbSzVLVUtmkgqQB9A"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "The Great Tiger-TV",
+      "normalizedName": "the great tiger tv",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCC87EvHuRv-BFI6af475LOg"
+        ],
+        "youtube": [
+          "UCC87EvHuRv-BFI6af475LOg"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Timeless Classical Beauty",
+      "normalizedName": "timeless classical beauty",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCOgq778AVK2Mv4V7NND13uw"
+        ],
+        "youtube": [
+          "UCOgq778AVK2Mv4V7NND13uw"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "AiMan",
+      "normalizedName": "aiman",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCBsymv2Px9gLMhf7MnWD8lw"
+        ],
+        "youtube": [
+          "UCBsymv2Px9gLMhf7MnWD8lw"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Reggae Chill Music",
+      "normalizedName": "reggae chill music",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCg7p6cil518OIrZs1YOaTIQ"
+        ],
+        "youtube": [
+          "UCg7p6cil518OIrZs1YOaTIQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Daisy Taylorai",
+      "normalizedName": "daisy taylorai",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCrjSZMaHcw4AENk0wlFm5rw"
+        ],
+        "youtube": [
+          "UCrjSZMaHcw4AENk0wlFm5rw"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Татьяна",
+      "normalizedName": "",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UCzx9Xk-W3fq23GU8h1Eq37Q"
+        ],
+        "youtube": [
+          "UCzx9Xk-W3fq23GU8h1Eq37Q"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
+      "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
     }
   ]
 }
