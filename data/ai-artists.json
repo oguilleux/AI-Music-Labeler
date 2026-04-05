@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-04-05",
+  "updated": "2026-04-06",
   "entries": [
     {
       "displayName": "BeatRush",
@@ -1944,6 +1944,40 @@
       "type": "artist",
       "reason": "reported",
       "source": "https://open.spotify.com/intl-fr/artist/3j3914S5I8qNF7oAuat1KS",
+      "notes": "Reported as suspected AI artist (2026)."
+    },
+    {
+      "displayName": "Slime Dot",
+      "normalizedName": "slime dot",
+      "platformIds": {
+        "spotify": [
+          "2LnFNK3k4zi3T48mrYdHmA"
+        ],
+        "ytmusic": [
+          "UCB5cx3LqK8W2uGZhR6spIqQ"
+        ],
+        "youtube": [
+          "UCB5cx3LqK8W2uGZhR6spIqQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://open.spotify.com/intl-fr/artist/2LnFNK3k4zi3T48mrYdHmA",
+      "notes": "Reported as suspected AI artist (2026). No MusicBrainz entry."
+    },
+    {
+      "displayName": "MONAMMI",
+      "normalizedName": "monammi",
+      "platformIds": {
+        "spotify": [
+          "1LDqqJkzcEumhV65KZZytK"
+        ],
+        "ytmusic": [],
+        "youtube": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://open.spotify.com/intl-fr/artist/1LDqqJkzcEumhV65KZZytK",
       "notes": "Reported as suspected AI artist (2026)."
     }
   ]
