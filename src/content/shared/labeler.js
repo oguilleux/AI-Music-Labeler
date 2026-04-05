@@ -19,8 +19,9 @@
         const keys = [];
         if (c.platformId) {
           keys.push(normalize.platformKey(platform.id, c.type || 'artist', c.platformId));
-        }
-        if (c.name) {
+        } else if (c.name) {
+          // Name-based matching is only safe when we have no authoritative ID
+          // (avoids false positives from artist namesakes on the same platform).
           keys.push('name:' + (c.type || 'artist') + ':' + normalize.normalizeName(c.name));
         }
 

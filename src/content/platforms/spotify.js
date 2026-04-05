@@ -28,6 +28,10 @@
       const info = extractFromAnchor(a);
       if (!info) continue;
       if (!info.name) continue;
+      // Card-grid anchors (search results, related artists) are handled by the
+      // data-testid strategy below, which appends the badge inline inside the
+      // title <p>. Skip them here to avoid a misplaced duplicate badge.
+      if (a.querySelector('[data-testid^="card-title-"]')) continue;
       out.push({ element: a, name: info.name, platformId: info.platformId, type: info.type });
     }
 
