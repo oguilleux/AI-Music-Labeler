@@ -19,6 +19,12 @@
 
   function findCandidates(root) {
     const out = [];
+    // On an artist page, only the artist's own name should get a badge.
+    // Skip track candidates (e.g. rows in the "Popular" list) to avoid
+    // littering the page with badges on every track title.
+    const currentArtistMatch = location.pathname.match(ARTIST_HREF_RE);
+    const onArtistPage = !!currentArtistMatch;
+    const currentArtistId = currentArtistMatch ? currentArtistMatch[1] : null;
 
     // Anchors pointing to artists or tracks (covers search, playlists, album pages, rows).
     const anchors = root.querySelectorAll
@@ -32,6 +38,11 @@
       // data-testid strategy below, which appends the badge inline inside the
       // title <p>. Skip them here to avoid a misplaced duplicate badge.
       if (a.querySelector('[data-testid^="card-title-"]')) continue;
+      // On the artist page, self-links (section headers like "Découvert sur",
+      // "Tout afficher", breadcrumbs) point back to the current artist but
+      // their text is not the artist name. The h1 already carries the badge,
+      // so skip these to avoid badging section titles.
+      if (onArtistPage && info.type === 'artist' && info.platformId === currentArtistId) continue;
       out.push({ element: a, name: info.name, platformId: info.platformId, type: info.type });
     }
 
@@ -78,7 +89,7 @@
       }
     }
 
-    return out;
+    return onArtistPage ? out.filter((c) => c.type !== 'track') : out;
   }
 
   window.AIML.platforms = window.AIML.platforms || {};
