@@ -20,6 +20,7 @@
         margin-left: 4px !important;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
         pointer-events: auto;
+        height: fit-content;
       }
       .b {
         background: ${config.badgeColor};
