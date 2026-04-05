@@ -1844,7 +1844,9 @@
       "displayName": "Татьяна",
       "normalizedName": "",
       "platformIds": {
-        "spotify": [],
+        "spotify": [
+          "2Agn1HUbcTPcPHwy7WAfHs"
+        ],
         "ytmusic": [
           "UCzx9Xk-W3fq23GU8h1Eq37Q"
         ],
@@ -1861,9 +1863,15 @@
       "displayName": "Imani Dawn",
       "normalizedName": "imani dawn",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "youtube": []
+        "spotify": [
+          "5bqZLEQZHGCWyJSaEq1J6C"
+        ],
+        "ytmusic": [
+          "UC0hWQGYcNRg__uJ735KMCOw"
+        ],
+        "youtube": [
+          "UC0hWQGYcNRg__uJ735KMCOw"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -1871,43 +1879,72 @@
       "notes": "Surfaced via Spotify Discover Weekly with track 'Hold You in this Calm' (Spotify track 6lARsxv4uO2DzyJc8cViIX); AI-generated neo-soul artist, flagged by suspicious profile photo and generic bio (2026)."
     },
     {
-      "displayName": "Tokyo Lab Chill",
-      "normalizedName": "tokyo lab chill",
+      "displayName": "TOKYO CHILL LAB",
+      "normalizedName": "tokyo chill lab",
       "platformIds": {
-        "spotify": [],
+        "spotify": [
+          "5KjACf3hRBih15vDJRwkU7"
+        ],
         "ytmusic": [],
         "youtube": []
       },
       "type": "artist",
       "reason": "reported",
       "source": "https://soapparently.substack.com/p/i-fell-for-an-ai-artist-chances-are-you-probably-have-too",
-      "notes": "Named as suspected AI artist on Spotify (2026)."
+      "notes": "Named in blog post as 'Tokyo Lab Chill'. 105K Spotify monthly listeners; bio states all tracks and visuals are 'original creations produced using AI'; album ~every 2 weeks. Also listed by souloverai.com."
     },
     {
       "displayName": "Aurora Lane",
       "normalizedName": "aurora lane",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "youtube": []
+        "spotify": [
+          "12dTRwxoCBGKgFUWIydcun"
+        ],
+        "ytmusic": [
+          "UCWD_KNAUHQyVh3H7e8ChEAA"
+        ],
+        "youtube": [
+          "UCWD_KNAUHQyVh3H7e8ChEAA"
+        ]
       },
       "type": "artist",
       "reason": "reported",
       "source": "https://soapparently.substack.com/p/i-fell-for-an-ai-artist-chances-are-you-probably-have-too",
-      "notes": "Named as suspected AI artist on Spotify (2026)."
+      "notes": "261K Spotify monthly listeners. Listed by souloverai.com: high-throughput releases and AI-generated visuals (2026)."
     },
     {
       "displayName": "Sonya",
       "normalizedName": "sonya",
       "platformIds": {
-        "spotify": [],
+        "spotify": [
+          "7toAYyXSQZh3yXAe7rqZUM"
+        ],
         "ytmusic": [],
         "youtube": []
       },
       "type": "artist",
       "reason": "reported",
       "source": "https://soapparently.substack.com/p/i-fell-for-an-ai-artist-chances-are-you-probably-have-too",
-      "notes": "Named as suspected AI artist on Spotify (2026)."
+      "notes": "138K Spotify monthly listeners. Named as suspected AI artist. YTM channel match removed (generic name, low confidence) (2026)."
+    },
+    {
+      "displayName": "Nova Solé",
+      "normalizedName": "nova sole",
+      "platformIds": {
+        "spotify": [
+          "3j3914S5I8qNF7oAuat1KS"
+        ],
+        "ytmusic": [
+          "UCV1nG5TZB3VTEKhslw7ibiQ"
+        ],
+        "youtube": [
+          "UCV1nG5TZB3VTEKhslw7ibiQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://open.spotify.com/intl-fr/artist/3j3914S5I8qNF7oAuat1KS",
+      "notes": "Reported as suspected AI artist (2026)."
     }
   ]
 }
