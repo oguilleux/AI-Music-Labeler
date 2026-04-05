@@ -5,8 +5,8 @@
 Adds a small **AI** badge next to artist/track names identified as AI-generated on:
 
 - Spotify web (`open.spotify.com`)
-
-Support for YouTube Music is planned for V2.
+- YouTube Music (`music.youtube.com`)
+- YouTube (`www.youtube.com`)
 
 V1 ships with a curated JSON database of known AI artists (`extension/data/ai-artists.json`). No backend, no tracking.
 
@@ -28,7 +28,7 @@ extension/
 │   ├── content/
 │   │   ├── entry.js
 │   │   ├── shared/       # labeler, badge, observer, store, normalize
-│   │   └── platforms/    # spotify, youtube-music
+│   │   └── platforms/    # spotify, youtube-music, youtube
 │   ├── popup/            # popup.html / .js / .css
 │   └── common/config.js
 ├── data/ai-artists.json  # curated seed database
@@ -52,9 +52,5 @@ Schema: see the existing entries. Each entry needs at minimum `displayName`, `no
 ## Roadmap
 
 ### V2
-- YouTube Music (`music.youtube.com`) support
-- Public contributions repo for curated additions
-
-### V3
 - Community flagging (100 distinct flags → label auto-added) backed by Cloudflare Workers + D1
 - Anti-abuse: HMAC install IDs, per-IP rate limits, geo-diversity checks
