@@ -1,0 +1,57 @@
+// Entry point: detects the active platform and wires up observer + labeler.
+(function () {
+  'use strict';
+
+  const { platforms, observer, labeler, store } = window.AIML;
+
+  function detectPlatform() {
+    const host = location.hostname;
+    if (host === 'open.spotify.com') return platforms.spotify;
+    if (host === 'music.youtube.com') return platforms.ytmusic;
+    if (host === 'music.apple.com') return platforms.applemusic;
+    return null;
+  }
+
+  async function boot() {
+    const platform = detectPlatform();
+    if (!platform) return;
+
+    const ok = await store.loadFromBackground();
+    if (!ok) {
+      console.warn('[AIML] could not load dataset from background');
+      return;
+    }
+
+    const run = (nodes) => labeler.scan(nodes, platform);
+
+    const handle = observer.startObserver(document.body || document.documentElement, run);
+
+    observer.onUrlChange(() => {
+      // Force a full rescan on SPA nav.
+      labeler.clearBadges();
+      handle.forceScan();
+    });
+
+    // Listen to toggle messages from the popup.
+    chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
+      if (!msg || !msg.type) return;
+      if (msg.type === 'SET_ENABLED') {
+        store.setEnabled(!!msg.enabled);
+        if (!msg.enabled) {
+          labeler.clearBadges();
+        } else {
+          handle.forceScan();
+        }
+        sendResponse && sendResponse({ ok: true });
+      } else if (msg.type === 'DATASET_UPDATED') {
+        store.ingest(msg.dataset);
+        labeler.clearBadges();
+        handle.forceScan();
+        sendResponse && sendResponse({ ok: true });
+      }
+      return true;
+    });
+  }
+
+  boot();
+})();

@@ -1,0 +1,1060 @@
+{
+  "version": 1,
+  "updated": "2026-04-05",
+  "entries": [
+    {
+      "displayName": "The Velvet Sundown",
+      "normalizedName": "the velvet sundown",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://www.berklee.edu/berklee-now/news/velvet-sundown-ai-band-controversy",
+      "notes": "Confirmed by the band itself as a 'synthetic music project guided by human creative direction'. 1.4M monthly Spotify listeners (2025)."
+    },
+    {
+      "displayName": "Breaking Rust",
+      "normalizedName": "breaking rust",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.nbcnews.com/tech/tech-news/mysterious-stranger-rode-town-topped-country-music-chart-might-not-rea-rcna243098",
+      "notes": "Reached #1 on Billboard Country Digital Song Sales with 'Walk my Walk'. 2.5M monthly Spotify listeners. Widely reported as AI-generated (2025)."
+    },
+    {
+      "displayName": "Xania Monet",
+      "normalizedName": "xania monet",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "AI-powered artist signed to Hallwood Media (multimillion-dollar deal). Created by Telisha 'Nikki' Jones using Suno. Charted Billboard Adult R&B Airplay and Hot Gospel Songs."
+    },
+    {
+      "displayName": "Aventhis",
+      "normalizedName": "aventhis",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.musicbusinessworldwide.com/that-ai-artist-with-over-1m-listeners-on-spotify-his-music-was-created-with-suno-says-expert-report/",
+      "notes": "1M+ Spotify monthly listeners. Expert report: music created with Suno and Riffusion. 'Mercy On My Grave' 2M+ streams."
+    },
+    {
+      "displayName": "The Devil Inside",
+      "normalizedName": "the devil inside",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://substreammagazine.com/2026/03/ai-musicians-are-flooding-spotify-is-the-music-industry-in-trouble/",
+      "notes": "Suno-generated project. ~700K Spotify monthly listeners. 'Dust and Thunder' 800K streams."
+    },
+    {
+      "displayName": "Splaxema",
+      "normalizedName": "splaxema",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "AI-generated. 'We Are Charlie Kirk' reached #1 on Spotify Viral 50 U.S."
+    },
+    {
+      "displayName": "Obscurest Vinyl",
+      "normalizedName": "obscurest vinyl",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://suno.com/",
+      "notes": "Well-known Suno-generated retro/novelty music project."
+    },
+    {
+      "displayName": "Anna Indiana",
+      "normalizedName": "anna indiana",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Anna_Indiana",
+      "notes": "AI-generated singer-songwriter, one of the first (2023)."
+    },
+    {
+      "displayName": "AIVA",
+      "normalizedName": "aiva",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://www.aiva.ai/",
+      "notes": "AI composer, classical and cinematic music."
+    },
+    {
+      "displayName": "Aisis",
+      "normalizedName": "aisis",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Breezer_(band)",
+      "notes": "AI Oasis deepfake project (2023)."
+    },
+    {
+      "displayName": "Frostbite Orckings",
+      "normalizedName": "frostbite orckings",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://suno.com/",
+      "notes": "Suno-generated project."
+    },
+    {
+      "displayName": "HAVEN.",
+      "normalizedName": "haven",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "Song 'I Run' uses AI to process vocals. Charted on Spotify US & Global 50."
+    },
+    {
+      "displayName": "Sienna Rose",
+      "normalizedName": "sienna rose",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://consequence.net/2026/01/sienna-rose-ai-selena-gomez-spotify/",
+      "notes": "2.7M monthly Spotify listeners. Three tracks on Spotify Viral 50 USA. Shifting avatar/identity; released 10 albums in 4 months."
+    },
+    {
+      "displayName": "Nick Hustles",
+      "normalizedName": "nick hustles",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://python.plainenglish.io/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-5dcff825998b",
+      "notes": "200K+ Spotify monthly listeners. Identified as AI-generated in expert investigation."
+    },
+    {
+      "displayName": "Aven",
+      "normalizedName": "aven",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://python.plainenglish.io/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-5dcff825998b",
+      "notes": "463K Spotify monthly listeners. Flagged as AI-generated in expert investigation."
+    },
+    {
+      "displayName": "DV8",
+      "normalizedName": "dv8",
+      "ambiguous": true,
+      "platformIds": {
+        "spotify": ["4mBDAPtJUNb9AxZU3Svt81"],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://python.plainenglish.io/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-5dcff825998b",
+      "notes": "295K Spotify monthly listeners. Flagged as AI-generated in expert investigation."
+    },
+    {
+      "displayName": "The Smoothies",
+      "normalizedName": "the smoothies",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://python.plainenglish.io/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-5dcff825998b",
+      "notes": "200K Spotify monthly listeners. Flagged as AI-generated."
+    },
+    {
+      "displayName": "Velvet Funk",
+      "normalizedName": "velvet funk",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://python.plainenglish.io/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-5dcff825998b",
+      "notes": "191K Spotify monthly listeners. Flagged as AI-generated."
+    },
+    {
+      "displayName": "Stellar Cruise",
+      "normalizedName": "stellar cruise",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://python.plainenglish.io/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-5dcff825998b",
+      "notes": "150K Spotify monthly listeners. Flagged as AI-generated."
+    },
+    {
+      "displayName": "Funkorama",
+      "normalizedName": "funkorama",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://python.plainenglish.io/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-5dcff825998b",
+      "notes": "126K Spotify monthly listeners. Flagged as AI-generated."
+    },
+    {
+      "displayName": "Hyperdrive Sound",
+      "normalizedName": "hyperdrive sound",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://python.plainenglish.io/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-5dcff825998b",
+      "notes": "108K Spotify monthly listeners. Flagged as AI-generated."
+    },
+    {
+      "displayName": "King Willonius",
+      "normalizedName": "king willonius",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://www.rollingstone.com/music/music-features/bbl-drizzy-king-willonius-ai-kendrick-metro-boomin-drake-1235025039/",
+      "notes": "AI-music creator, originator of viral 'BBL Drizzy' track (2024). Uses Udio/Suno."
+    },
+    {
+      "displayName": "Biscuit Beats",
+      "normalizedName": "biscuit beats",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.musicbusinessworldwide.com/the-ai-music-problem-on-spotify-and-other-streaming-platforms-is-worse-than-you-think/",
+      "notes": "Parody-style AI project, most-listened track over 4M plays."
+    },
+    {
+      "displayName": "Lofi Town",
+      "normalizedName": "lofi town",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://en.wikipedia.org/wiki/Music_and_artificial_intelligence",
+      "notes": "AI artist covering Filipino songs; reached Spotify Philippines Top Artists list."
+    },
+    {
+      "displayName": "Vinih Pray",
+      "normalizedName": "vinih pray",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "'A Million Colors' created with Suno; charted TikTok Viral 50."
+    },
+    {
+      "displayName": "ghostwriter977",
+      "normalizedName": "ghostwriter977",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Heart_on_My_Sleeve_(ghostwriter977_song)",
+      "notes": "Creator of viral AI Drake/Weeknd deepfake 'Heart on My Sleeve' (2023)."
+    },
+    {
+      "displayName": "Yona",
+      "normalizedName": "yona",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Auxuman",
+      "notes": "Auxuman AI avatar artist created by Ash Koosha."
+    },
+    {
+      "displayName": "Lucy",
+      "normalizedName": "lucy",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://musicbusinessresearch.wordpress.com/2025/10/27/virtual-music-worlds-part-4-ai-generated-artists/",
+      "notes": "Hyper-real AI pop star from Tencent Music Lyra Lab (2022). Charted in China."
+    },
+    {
+      "displayName": "MIDNATT",
+      "normalizedName": "midnatt",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://musicbusinessresearch.wordpress.com/2025/10/27/virtual-music-worlds-part-4-ai-generated-artists/",
+      "notes": "HYBE/Supertone AI alter ego of Lee Hyun. 'Masquerade' released in 6 languages via voice cloning (2023)."
+    },
+    {
+      "displayName": "MAVE:",
+      "normalizedName": "mave",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Mave:",
+      "notes": "Virtual K-pop group by Metaverse Entertainment/Kakao. Debut 'Pandora' (2023) 32M YouTube views."
+    },
+    {
+      "displayName": "SYNDI8",
+      "normalizedName": "syndi8",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://musicbusinessresearch.wordpress.com/2025/10/27/virtual-music-worlds-part-4-ai-generated-artists/",
+      "notes": "Supertone AI-voiced virtual group, debut EP 'MVP' (2024)."
+    },
+    {
+      "displayName": "Noonoouri",
+      "normalizedName": "noonoouri",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Noonoouri",
+      "notes": "AI-powered virtual singer signed to Warner Music. Debut single 'Dominoes' (2023)."
+    },
+    {
+      "displayName": "FN Meka",
+      "normalizedName": "fn meka",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/FN_Meka",
+      "notes": "AI virtual rapper, briefly signed to Capitol Records (2022) then dropped."
+    },
+    {
+      "displayName": "Holly+",
+      "normalizedName": "holly plus",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://holly.plus/",
+      "notes": "AI voice clone / deepfake instrument by Holly Herndon. Artist-led AI project."
+    },
+    {
+      "displayName": "Dadabots",
+      "normalizedName": "dadabots",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://dadabots.com/",
+      "notes": "AI/neural-net music project generating endless extreme metal and jazz streams since 2017."
+    },
+    {
+      "displayName": "Taryn Southern",
+      "normalizedName": "taryn southern",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Taryn_Southern",
+      "notes": "AI-assisted human artist. Album 'I AM AI' (2018) composed/produced with AI tools (Amper, AIVA, IBM Watson)."
+    },
+    {
+      "displayName": "YACHT",
+      "normalizedName": "yacht",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Yacht_(band)",
+      "notes": "AI-assisted band. Album 'Chain Tripping' (2019) Grammy-nominated, composed with ML models trained on own catalog."
+    },
+    {
+      "displayName": "Iamus",
+      "normalizedName": "iamus",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Iamus_(computer)",
+      "notes": "First computer to produce original contemporary classical music (2010)."
+    },
+    {
+      "displayName": "Emily Howell",
+      "normalizedName": "emily howell",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Emily_Howell",
+      "notes": "AI music composition program by David Cope. Released album 'From Darkness, Light' (2009)."
+    },
+    {
+      "displayName": "Cain Walker",
+      "normalizedName": "cain walker",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/pro/ai-artists-breaking-rust-country-music-chart-reactions/",
+      "notes": "AI country act, 842K Spotify monthly listeners. 'Don't Tread On Me' #3 Billboard Country Digital Song Sales. Label: Crusty Records."
+    },
+    {
+      "displayName": "TaTa Taktumi",
+      "normalizedName": "tata taktumi",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://www.musicbusinessworldwide.com/timbaland-launches-ai-music-company-stage-zero-with-first-ai-artist-tata/",
+      "notes": "First AI artist of Timbaland's Stage Zero label (2025). Created with Suno's Persona feature. Signed to PMG in 2026."
+    },
+    {
+      "displayName": "Bleeding Verse",
+      "normalizedName": "bleeding verse",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://www.rollingstone.com/music/music-news/ai-imitator-spotify-holding-absence-bleeding-verse-1235438985/",
+      "notes": "AI post-hardcore project. Bio says 'Human lyrics, turned to songs with AI'. 900K+ Spotify monthly listeners, modeled on Holding Absence."
+    },
+    {
+      "displayName": "Sutem Min",
+      "normalizedName": "sutem min",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://consequence.net/2025/12/ai-artists-music-industry-suno/",
+      "notes": "Tim Boucher's personal AI music project. Released 40 albums in 30 days via Suno."
+    },
+    {
+      "displayName": "What Is?",
+      "normalizedName": "what is",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.musicbusinessworldwide.com/the-ai-music-problem-on-spotify-and-other-streaming-platforms-is-worse-than-you-think/",
+      "notes": "141K Spotify monthly listeners. Flagged as AI-generated in MBW investigation."
+    },
+    {
+      "displayName": "Solomon Ray",
+      "normalizedName": "solomon ray",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "AI artist created by Christopher Jermaine Townsend. Part of Hallwood Media AI roster."
+    },
+    {
+      "displayName": "China Styles",
+      "normalizedName": "china styles",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "AI artist on Hallwood Media roster (same label as Xania Monet)."
+    },
+    {
+      "displayName": "Drew Meadows",
+      "normalizedName": "drew meadows",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "AI artist on Hallwood Media roster."
+    },
+    {
+      "displayName": "Lone Star Lyric House",
+      "normalizedName": "lone star lyric house",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "AI artist on Hallwood Media roster."
+    },
+    {
+      "displayName": "David Sven",
+      "normalizedName": "david sven",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "AI artist on Hallwood Media roster."
+    },
+    {
+      "displayName": "nævis",
+      "normalizedName": "naevis",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Naevis",
+      "notes": "SM Entertainment's first AI virtual idol. AI-synthesized voice. Solo debut single 'Done' (Sep 2024)."
+    },
+    {
+      "displayName": "Endel",
+      "normalizedName": "endel",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Endel_(app)",
+      "notes": "First algorithm/AI to sign a major label deal (Warner Music, 2019). Generative wellness soundscapes. 356K Spotify monthly listeners."
+    },
+    {
+      "displayName": "Lil Miquela",
+      "normalizedName": "lil miquela",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Miquela",
+      "notes": "CGI virtual influencer and musician by Brud Studio. Released 'Not Mine', 'Hard Feelings', and other Spotify singles since 2017."
+    },
+    {
+      "displayName": "Eternity",
+      "normalizedName": "eternity",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://restofworld.org/2022/virtual-kpop-stars/",
+      "notes": "Pulse9 'all virtual deep-learning real AI' K-pop girl group (2021). Members generated via AI face-synthesis."
+    },
+    {
+      "displayName": "Ana",
+      "normalizedName": "ana",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Krafton's first hyperrealistic virtual human artist. Music video 'Shine Bright' (Sept 2022)."
+    },
+    {
+      "displayName": "SKINZ",
+      "normalizedName": "skinz",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "AI K-pop boy group, seven virtual members, debuted 2025."
+    },
+    {
+      "displayName": "Han YuA",
+      "normalizedName": "han yua",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "YG KPlus virtual AI K-pop idol (2021)."
+    },
+    {
+      "displayName": "FE:VERSE",
+      "normalizedName": "feverse",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://musicbusinessresearch.wordpress.com/2025/10/27/virtual-music-worlds-part-4-ai-generated-artists/",
+      "notes": "Virtual 5-member K-pop girl group by Kakao Entertainment from survival show GIRL'S RE:VERSE. Debut track 'CHO'."
+    },
+    {
+      "displayName": "APOKI",
+      "normalizedName": "apoki",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Virtual K-pop solo artist by AFUN INTERACTIVE/VV Entertainment. 'GETTIN' HIGH' 10M+ views."
+    },
+    {
+      "displayName": "Rozy",
+      "normalizedName": "rozy",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Virtual AI influencer/singer by Sidus Studio X (South Korea). Released singles as virtual human."
+    },
+    {
+      "displayName": "Imma",
+      "normalizedName": "imma",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Imma_(model)",
+      "notes": "Japanese AI/CGI virtual model with music collaborations."
+    },
+    {
+      "displayName": "Shudu Gram",
+      "normalizedName": "shudu gram",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Shudu_Gram",
+      "notes": "World's first digital supermodel / AI virtual artist with music releases."
+    },
+    {
+      "displayName": "Adam",
+      "normalizedName": "adam",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "First virtual singer in Korea (1996). Two full-length albums, ~200K units sold."
+    },
+    {
+      "displayName": "Hip-Kongz",
+      "normalizedName": "hip-kongz",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Virtual NFT-based singer under Brave Entertainment (debut Dec 2021)."
+    },
+    {
+      "displayName": "LULUPOP",
+      "normalizedName": "lulupop",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "3D digital/virtual girl artist under SAMG Entertainment. Debut single 'Find You' (May 2021)."
+    },
+    {
+      "displayName": "Reah Keem",
+      "normalizedName": "reah keem",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "LG Electronics virtual singer-songwriter/DJ (2021)."
+    },
+    {
+      "displayName": "YUNA",
+      "normalizedName": "yuna",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Virtual singer under Humap Contents. Tracks include 'Kiss Me' and 'Lonely'."
+    },
+    {
+      "displayName": "Luna Snow",
+      "normalizedName": "luna snow",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Luna_Snow",
+      "notes": "Virtual K-pop idol from Marvel Future Fight with released songs."
+    },
+    {
+      "displayName": "SUPERKIND",
+      "normalizedName": "superkind",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://en.wikipedia.org/wiki/Superkind",
+      "notes": "K-pop boy group by Deep Studio Entertainment with two AI/virtual members (Saejin, Seung). Debut 2022."
+    },
+    {
+      "displayName": "PLAVE",
+      "normalizedName": "plave",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://musicbusinessresearch.wordpress.com/2025/10/27/virtual-music-worlds-part-4-ai-generated-artists/",
+      "notes": "Virtual K-pop boy group by VLAST using motion-capture + virtual avatars. Debuted 2023."
+    },
+    {
+      "displayName": "ISEGYE IDOL",
+      "normalizedName": "isegye idol",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Virtual K-pop girl group by WAK/Parable Entertainment (2021). Debut 'RE:WIND' 19M+ views."
+    },
+    {
+      "displayName": "aespa",
+      "normalizedName": "aespa",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://musicbusinessresearch.wordpress.com/2025/10/27/virtual-music-worlds-part-4-ai-generated-artists/",
+      "notes": "SM Entertainment K-pop group paired with virtual avatar counterparts (æ-aespa) and AI character Naevis."
+    },
+    {
+      "displayName": "ORDO",
+      "normalizedName": "ordo",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Virtual K-pop group featuring virtual dancer Sira, created by EVR Studio."
+    },
+    {
+      "displayName": "That's One",
+      "normalizedName": "thats one",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Four-member virtual streamer group under Bean Entertainment. Single 'MAFIA' (Sept 2023)."
+    },
+    {
+      "displayName": "Sagong_ee_ho",
+      "normalizedName": "sagong ee ho",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "3-member metaverse-based virtual K-pop group. Debut single 'Wake Up' (June 2022)."
+    },
+    {
+      "displayName": "NVP Project",
+      "normalizedName": "nvp project",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Virtual artist collaboration by YG PLUS featuring Saena and Ayan."
+    },
+    {
+      "displayName": "Project V",
+      "normalizedName": "project v",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "Five-member AI K-pop girl group under GBK Entertainment."
+    },
+    {
+      "displayName": "SORI",
+      "normalizedName": "sori",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "confirmed",
+      "source": "https://kprofiles.com/ais-in-kpop-industry/",
+      "notes": "3D virtual human developed by Naver and GiantStep."
+    },
+    {
+      "displayName": "Ninezero",
+      "normalizedName": "ninezero",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://www.billboard.com/lists/biggest-ai-music-stories-2025-suno-udio-charts-more/",
+      "notes": "AI-driven virtual artist referenced in Billboard 2025 AI music coverage."
+    },
+    {
+      "displayName": "K/DA",
+      "normalizedName": "kda",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://en.wikipedia.org/wiki/K/DA",
+      "notes": "Virtual K-pop girl group by Riot Games from League of Legends. Debut 'POP/STARS' (2018)."
+    },
+    {
+      "displayName": "TRUE DAMAGE",
+      "normalizedName": "true damage",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://en.wikipedia.org/wiki/True_Damage",
+      "notes": "Virtual League of Legends co-ed group by Riot Games."
+    },
+    {
+      "displayName": "Pentakill",
+      "normalizedName": "pentakill",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "applemusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://en.wikipedia.org/wiki/Pentakill",
+      "notes": "Virtual metal band by Riot Games from League of Legends."
+    }
+  ]
+}

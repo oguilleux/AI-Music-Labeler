@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI Music Labeler</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <header>
+    <span class="badge">AI</span>
+    <h1>Music Labeler</h1>
+  </header>
+
+  <section class="row">
+    <label class="switch">
+      <input type="checkbox" id="toggle-enabled" />
+      <span>Enable badges</span>
+    </label>
+  </section>
+
+  <section class="stats">
+    <div><span class="label">Artists in database</span><span id="count">—</span></div>
+    <div><span class="label">Database version</span><span id="version">—</span></div>
+    <div><span class="label">Last updated</span><span id="updated">—</span></div>
+  </section>
+
+  <section class="row">
+    <button id="reload-btn">Reload bundled database</button>
+  </section>
+
+  <footer>
+    <p>Supports Spotify, YouTube Music, Apple Music.</p>
+  </footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>
