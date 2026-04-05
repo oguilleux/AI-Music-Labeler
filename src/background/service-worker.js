@@ -44,7 +44,7 @@ async function broadcastToTabs(message) {
     url: [
       'https://open.spotify.com/*',
       'https://music.youtube.com/*',
-      'https://music.apple.com/*',
+      'https://www.youtube.com/*',
     ],
   });
   for (const t of tabs) {

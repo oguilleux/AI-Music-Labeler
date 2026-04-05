@@ -2,12 +2,12 @@
   "manifest_version": 3,
   "name": "AI Music Labeler",
   "version": "0.1.0",
-  "description": "Adds an \"AI\" badge next to AI-generated artists on Spotify, YouTube Music and Apple Music.",
+  "description": "Adds an \"AI\" badge next to AI-generated artists on Spotify, YouTube Music and YouTube.",
   "permissions": ["storage"],
   "host_permissions": [
     "https://open.spotify.com/*",
     "https://music.youtube.com/*",
-    "https://music.apple.com/*"
+    "https://www.youtube.com/*"
   ],
   "background": {
     "service_worker": "src/background/service-worker.js",
@@ -18,7 +18,7 @@
       "matches": [
         "https://open.spotify.com/*",
         "https://music.youtube.com/*",
-        "https://music.apple.com/*"
+        "https://www.youtube.com/*"
       ],
       "js": [
         "src/common/config.js",
@@ -29,7 +29,7 @@
         "src/content/shared/labeler.js",
         "src/content/platforms/spotify.js",
         "src/content/platforms/youtube-music.js",
-        "src/content/platforms/apple-music.js",
+        "src/content/platforms/youtube.js",
         "src/content/entry.js"
       ],
       "run_at": "document_idle",
@@ -56,7 +56,7 @@
       "matches": [
         "https://open.spotify.com/*",
         "https://music.youtube.com/*",
-        "https://music.apple.com/*"
+        "https://www.youtube.com/*"
       ]
     }
   ]

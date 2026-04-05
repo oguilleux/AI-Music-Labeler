@@ -3,12 +3,35 @@
   "updated": "2026-04-05",
   "entries": [
     {
+      "displayName": "BeatRush",
+      "normalizedName": "beatrush",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [
+          "UC5pYGW_jzxsApYv4hLLuHhA"
+        ],
+        "youtube": [
+          "UC5pYGW_jzxsApYv4hLLuHhA"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://music.youtube.com/channel/UC5pYGW_jzxsApYv4hLLuHhA",
+      "notes": "Suspected AI-generated artist on YouTube Music."
+    },
+    {
       "displayName": "The Velvet Sundown",
       "normalizedName": "the velvet sundown",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "2GRtyAXWUiisGYub5SGMrb"
+        ],
+        "ytmusic": [
+          "UCLeR-eGh2OFy9ydX7IUcOTw"
+        ],
+        "youtube": [
+          "UCLeR-eGh2OFy9ydX7IUcOTw"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -19,9 +42,15 @@
       "displayName": "Breaking Rust",
       "normalizedName": "breaking rust",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "3h9rLaviiFj1TeEhdIRpP5"
+        ],
+        "ytmusic": [
+          "UCODbKiVoR8lWDPl39uf803Q"
+        ],
+        "youtube": [
+          "UCODbKiVoR8lWDPl39uf803Q"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -32,9 +61,15 @@
       "displayName": "Xania Monet",
       "normalizedName": "xania monet",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "0YIEJNJUCsjzeWwj8Xh2LD"
+        ],
+        "ytmusic": [
+          "UCb6ymSf0Tfhv4zxZ5kjsaKQ"
+        ],
+        "youtube": [
+          "UCb6ymSf0Tfhv4zxZ5kjsaKQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -46,8 +81,12 @@
       "normalizedName": "aventhis",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC-t79t7t3paBwPx0mYx5V1w"
+        ],
+        "youtube": [
+          "UC-t79t7t3paBwPx0mYx5V1w"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -58,9 +97,15 @@
       "displayName": "The Devil Inside",
       "normalizedName": "the devil inside",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "7p9c2UBqYagnd5aoNEeupC"
+        ],
+        "ytmusic": [
+          "UCEBw-Zotaj0-wGHKndLQLFQ"
+        ],
+        "youtube": [
+          "UCEBw-Zotaj0-wGHKndLQLFQ"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -73,7 +118,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "reported",
@@ -84,9 +129,15 @@
       "displayName": "Obscurest Vinyl",
       "normalizedName": "obscurest vinyl",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "2HxVlOkQuNlvDQ0aRrCTtj"
+        ],
+        "ytmusic": [
+          "UCSeqzYZQ8GEoF6eMdvJREyw"
+        ],
+        "youtube": [
+          "UCSeqzYZQ8GEoF6eMdvJREyw"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -98,8 +149,12 @@
       "normalizedName": "anna indiana",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCMsYhG3d6SUdye3n-80LIwg"
+        ],
+        "youtube": [
+          "UCMsYhG3d6SUdye3n-80LIwg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -110,9 +165,15 @@
       "displayName": "AIVA",
       "normalizedName": "aiva",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "785Ystnoa1blYHi5DmBcqp"
+        ],
+        "ytmusic": [
+          "UCykVChITx5kqBoGkzfz8iZg"
+        ],
+        "youtube": [
+          "UCykVChITx5kqBoGkzfz8iZg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -124,8 +185,12 @@
       "normalizedName": "aisis",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC1YANJ0GV_UXmyAW7v-uN3w"
+        ],
+        "youtube": [
+          "UC1YANJ0GV_UXmyAW7v-uN3w"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -137,8 +202,12 @@
       "normalizedName": "frostbite orckings",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCh7tbH5iilv0rdMaxQhqKkg"
+        ],
+        "youtube": [
+          "UCh7tbH5iilv0rdMaxQhqKkg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -150,8 +219,12 @@
       "normalizedName": "haven",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC5DagoARSMBgA1jp5yjhvpA"
+        ],
+        "youtube": [
+          "UC5DagoARSMBgA1jp5yjhvpA"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -162,9 +235,15 @@
       "displayName": "Sienna Rose",
       "normalizedName": "sienna rose",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "6wq8iklwcF2dj0jtMpPvOJ"
+        ],
+        "ytmusic": [
+          "UCi5lJ9LflY1Pn05ArHyQxEA"
+        ],
+        "youtube": [
+          "UCi5lJ9LflY1Pn05ArHyQxEA"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -175,9 +254,15 @@
       "displayName": "Nick Hustles",
       "normalizedName": "nick hustles",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "4y6CMS7tqBf8ubmUuP9SQI"
+        ],
+        "ytmusic": [
+          "UC0SXzhrt2zMyE9ifTt3iiSg"
+        ],
+        "youtube": [
+          "UC0SXzhrt2zMyE9ifTt3iiSg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -189,8 +274,12 @@
       "normalizedName": "aven",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCSr9B06NCfbN58r0SAljFug"
+        ],
+        "youtube": [
+          "UCSr9B06NCfbN58r0SAljFug"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -202,9 +291,15 @@
       "normalizedName": "dv8",
       "ambiguous": true,
       "platformIds": {
-        "spotify": ["4mBDAPtJUNb9AxZU3Svt81"],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "4mBDAPtJUNb9AxZU3Svt81"
+        ],
+        "ytmusic": [
+          "UCasys8d35LvvBXwgwgjPvqA"
+        ],
+        "youtube": [
+          "UCasys8d35LvvBXwgwgjPvqA"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -216,8 +311,12 @@
       "normalizedName": "the smoothies",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC6nFvZkyBHjgXEJbDMlneTQ"
+        ],
+        "youtube": [
+          "UC6nFvZkyBHjgXEJbDMlneTQ"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -228,9 +327,15 @@
       "displayName": "Velvet Funk",
       "normalizedName": "velvet funk",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "1oCgOGxyjqDexacJlm9Scu"
+        ],
+        "ytmusic": [
+          "UCX--empFSUT95M4hPPVOzzQ"
+        ],
+        "youtube": [
+          "UCX--empFSUT95M4hPPVOzzQ"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -242,8 +347,12 @@
       "normalizedName": "stellar cruise",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC29ydnpCEKKmYjy6nPMq8sw"
+        ],
+        "youtube": [
+          "UC29ydnpCEKKmYjy6nPMq8sw"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -255,8 +364,12 @@
       "normalizedName": "funkorama",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCNbeIsrfo1vwDyl4g0Ckqrg"
+        ],
+        "youtube": [
+          "UCNbeIsrfo1vwDyl4g0Ckqrg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -268,8 +381,12 @@
       "normalizedName": "hyperdrive sound",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC8WjHT3Coqp2_Y8tyUBYKvQ"
+        ],
+        "youtube": [
+          "UC8WjHT3Coqp2_Y8tyUBYKvQ"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -280,9 +397,15 @@
       "displayName": "King Willonius",
       "normalizedName": "king willonius",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "7cU7vDTcVBcBek0hkGylM1"
+        ],
+        "ytmusic": [
+          "UCKnTKn9FaatR_V7TQtOul8A"
+        ],
+        "youtube": [
+          "UCKnTKn9FaatR_V7TQtOul8A"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -293,9 +416,15 @@
       "displayName": "Biscuit Beats",
       "normalizedName": "biscuit beats",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "7d0vajTzRZvHSQAlLxXwT2"
+        ],
+        "ytmusic": [
+          "UCuPNspBTRO-msvZ3rs2eJiw"
+        ],
+        "youtube": [
+          "UCuPNspBTRO-msvZ3rs2eJiw"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -307,8 +436,12 @@
       "normalizedName": "lofi town",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCHlVOsJIg2Oa2AKpdCAZqrg"
+        ],
+        "youtube": [
+          "UCHlVOsJIg2Oa2AKpdCAZqrg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -320,8 +453,12 @@
       "normalizedName": "vinih pray",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCyQ9nr9F28uUsgycwW72Sbg"
+        ],
+        "youtube": [
+          "UCyQ9nr9F28uUsgycwW72Sbg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -333,8 +470,12 @@
       "normalizedName": "ghostwriter977",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCn51ftkVVDx4j65SW4tvDxQ"
+        ],
+        "youtube": [
+          "UCn51ftkVVDx4j65SW4tvDxQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -345,9 +486,15 @@
       "displayName": "Yona",
       "normalizedName": "yona",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "5BkXsfNLBm4G7L82WEBCfv"
+        ],
+        "ytmusic": [
+          "UC6VY32zN-yVjQEkH7H-swUg"
+        ],
+        "youtube": [
+          "UC6VY32zN-yVjQEkH7H-swUg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -359,8 +506,12 @@
       "normalizedName": "lucy",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCPcj_I6nYs_ldFfOJaCTSTg"
+        ],
+        "youtube": [
+          "UCPcj_I6nYs_ldFfOJaCTSTg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -372,8 +523,12 @@
       "normalizedName": "midnatt",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCk_xcTXIZwHovUNZyCXmRhg"
+        ],
+        "youtube": [
+          "UCk_xcTXIZwHovUNZyCXmRhg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -384,9 +539,15 @@
       "displayName": "MAVE:",
       "normalizedName": "mave",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "2ec7y2L98sHDYFylr7KqEx"
+        ],
+        "ytmusic": [
+          "UCOkPPNcfz_Epox8LtDfJOkQ"
+        ],
+        "youtube": [
+          "UCOkPPNcfz_Epox8LtDfJOkQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -398,8 +559,12 @@
       "normalizedName": "syndi8",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCjUZyi2uU5ZAw63YKUsKQQw"
+        ],
+        "youtube": [
+          "UCjUZyi2uU5ZAw63YKUsKQQw"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -410,9 +575,15 @@
       "displayName": "Noonoouri",
       "normalizedName": "noonoouri",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "7pMGoZUrvOrvoYZqVWR07I"
+        ],
+        "ytmusic": [
+          "UCmIj9ZSb2QAurwfD3g2G2eQ"
+        ],
+        "youtube": [
+          "UCmIj9ZSb2QAurwfD3g2G2eQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -424,8 +595,12 @@
       "normalizedName": "fn meka",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCMt7TQPHUHBhwbHd8BOcKTQ"
+        ],
+        "youtube": [
+          "UCMt7TQPHUHBhwbHd8BOcKTQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -438,7 +613,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "confirmed",
@@ -450,8 +625,12 @@
       "normalizedName": "dadabots",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCLjU_5t9kP3DjNPmvVJx2eg"
+        ],
+        "youtube": [
+          "UCLjU_5t9kP3DjNPmvVJx2eg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -463,8 +642,12 @@
       "normalizedName": "taryn southern",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCK5YnMYmiU_i6cF8plPlTBQ"
+        ],
+        "youtube": [
+          "UCK5YnMYmiU_i6cF8plPlTBQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -475,9 +658,15 @@
       "displayName": "YACHT",
       "normalizedName": "yacht",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "57anmI1X2hXWPrNagFdzZr"
+        ],
+        "ytmusic": [
+          "UCR53qjkj3zz9_rwhhzyXDRg"
+        ],
+        "youtube": [
+          "UCR53qjkj3zz9_rwhhzyXDRg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -489,8 +678,12 @@
       "normalizedName": "iamus",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCPZL0576DIWcJ9gsv6wvC7Q"
+        ],
+        "youtube": [
+          "UCPZL0576DIWcJ9gsv6wvC7Q"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -502,8 +695,12 @@
       "normalizedName": "emily howell",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCJVYSZHAO2cxKlMivfV0xkQ"
+        ],
+        "youtube": [
+          "UCJVYSZHAO2cxKlMivfV0xkQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -514,9 +711,15 @@
       "displayName": "Cain Walker",
       "normalizedName": "cain walker",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "7BKNTwZykUrvFUK5QbeHhg"
+        ],
+        "ytmusic": [
+          "UC0RT8Jn69jJouPvjHMiGFXA"
+        ],
+        "youtube": [
+          "UC0RT8Jn69jJouPvjHMiGFXA"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -528,8 +731,12 @@
       "normalizedName": "tata taktumi",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCGBzi9IFom9pyG6JFGy0BjA"
+        ],
+        "youtube": [
+          "UCGBzi9IFom9pyG6JFGy0BjA"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -540,9 +747,15 @@
       "displayName": "Bleeding Verse",
       "normalizedName": "bleeding verse",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "6CrsGj3Zj4gIM3rQSU7DeW"
+        ],
+        "ytmusic": [
+          "UCA8IZmgxa-fpYtg61I7kVQg"
+        ],
+        "youtube": [
+          "UCA8IZmgxa-fpYtg61I7kVQg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -554,8 +767,12 @@
       "normalizedName": "sutem min",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCYAjInajJn7nwRp9ppOtAFQ"
+        ],
+        "youtube": [
+          "UCYAjInajJn7nwRp9ppOtAFQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -567,8 +784,12 @@
       "normalizedName": "what is",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCiFC9J14vnxFYR4HeyIoEEQ"
+        ],
+        "youtube": [
+          "UCiFC9J14vnxFYR4HeyIoEEQ"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -579,9 +800,15 @@
       "displayName": "Solomon Ray",
       "normalizedName": "solomon ray",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "13J2iJunT2e2DmdDRJzedO"
+        ],
+        "ytmusic": [
+          "UC6izWLksJl3AOpwGq529jgw"
+        ],
+        "youtube": [
+          "UC6izWLksJl3AOpwGq529jgw"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -592,9 +819,15 @@
       "displayName": "China Styles",
       "normalizedName": "china styles",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "3ubPEAmladxyGrppqdQwTk"
+        ],
+        "ytmusic": [
+          "UCTIAKZ6RevCFvWrcGQiNlfg"
+        ],
+        "youtube": [
+          "UCTIAKZ6RevCFvWrcGQiNlfg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -606,8 +839,12 @@
       "normalizedName": "drew meadows",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCrVzxck9sM3_MIFR1b_KjUg"
+        ],
+        "youtube": [
+          "UCrVzxck9sM3_MIFR1b_KjUg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -619,8 +856,12 @@
       "normalizedName": "lone star lyric house",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCPXVRMLrq618qHV_KCk8ENw"
+        ],
+        "youtube": [
+          "UCPXVRMLrq618qHV_KCk8ENw"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -632,8 +873,12 @@
       "normalizedName": "david sven",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC77h58MpEmHOKGVhPsZm9ew"
+        ],
+        "youtube": [
+          "UC77h58MpEmHOKGVhPsZm9ew"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -646,7 +891,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "confirmed",
@@ -657,9 +902,15 @@
       "displayName": "Endel",
       "normalizedName": "endel",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "3JNr31WfX56vgwBuIcdOt4"
+        ],
+        "ytmusic": [
+          "UC9uTrVJguNU6d7wyQ5zDt-g"
+        ],
+        "youtube": [
+          "UC9uTrVJguNU6d7wyQ5zDt-g"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -671,8 +922,12 @@
       "normalizedName": "lil miquela",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC-EI-WJUCbwXo21svklBaqw"
+        ],
+        "youtube": [
+          "UC-EI-WJUCbwXo21svklBaqw"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -684,8 +939,12 @@
       "normalizedName": "eternity",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC6rdcE8-x6LJrNMM8-YIj0A"
+        ],
+        "youtube": [
+          "UC6rdcE8-x6LJrNMM8-YIj0A"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -697,8 +956,12 @@
       "normalizedName": "ana",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCA-ODkmko0VBVJa0viUtM_w"
+        ],
+        "youtube": [
+          "UCA-ODkmko0VBVJa0viUtM_w"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -709,9 +972,15 @@
       "displayName": "SKINZ",
       "normalizedName": "skinz",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "323gjVOWgnKGW3VuT8VKTx"
+        ],
+        "ytmusic": [
+          "UCpaCBPtFxbgBvP017JLNe8g"
+        ],
+        "youtube": [
+          "UCpaCBPtFxbgBvP017JLNe8g"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -724,7 +993,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "confirmed",
@@ -736,8 +1005,12 @@
       "normalizedName": "feverse",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC3ubYqCkI3K1wzwzRVrHexg"
+        ],
+        "youtube": [
+          "UC3ubYqCkI3K1wzwzRVrHexg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -748,9 +1021,15 @@
       "displayName": "APOKI",
       "normalizedName": "apoki",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "0JVB3oaSxGrbnhzIiKwiR9"
+        ],
+        "ytmusic": [
+          "UCjmlTmDS3d2azdWlXNY9oFQ"
+        ],
+        "youtube": [
+          "UCjmlTmDS3d2azdWlXNY9oFQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -761,9 +1040,15 @@
       "displayName": "Rozy",
       "normalizedName": "rozy",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "5GOsqnELNHyXOwg5wvpMsm"
+        ],
+        "ytmusic": [
+          "UCx1aw0Bj-BHQuP0MGm66jNw"
+        ],
+        "youtube": [
+          "UCx1aw0Bj-BHQuP0MGm66jNw"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -775,8 +1060,12 @@
       "normalizedName": "imma",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCoqIFSkqlRiwgK-IWXoqa4w"
+        ],
+        "youtube": [
+          "UCoqIFSkqlRiwgK-IWXoqa4w"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -789,7 +1078,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "confirmed",
@@ -801,8 +1090,12 @@
       "normalizedName": "adam",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC3uOwAgmquYz0bPNcvXILzg"
+        ],
+        "youtube": [
+          "UC3uOwAgmquYz0bPNcvXILzg"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -815,7 +1108,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "confirmed",
@@ -827,8 +1120,12 @@
       "normalizedName": "lulupop",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC8F0YMI9hpOetxJpAt9LyZQ"
+        ],
+        "youtube": [
+          "UC8F0YMI9hpOetxJpAt9LyZQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -841,7 +1138,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "confirmed",
@@ -852,9 +1149,15 @@
       "displayName": "YUNA",
       "normalizedName": "yuna",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "3kHVioJpVxlazAAKQ64pC1"
+        ],
+        "ytmusic": [
+          "UCN4gPr8nDzQdZWVdJBksp6Q"
+        ],
+        "youtube": [
+          "UCN4gPr8nDzQdZWVdJBksp6Q"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -865,9 +1168,15 @@
       "displayName": "Luna Snow",
       "normalizedName": "luna snow",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "2GP1Zfa8XEcPmeXvoTVc4M"
+        ],
+        "ytmusic": [
+          "UCDJ_7g8kiLgBDdWHmKlA4Ag"
+        ],
+        "youtube": [
+          "UCDJ_7g8kiLgBDdWHmKlA4Ag"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -879,8 +1188,12 @@
       "normalizedName": "superkind",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC_iG-zPcUEWZO9va_YSGosQ"
+        ],
+        "youtube": [
+          "UC_iG-zPcUEWZO9va_YSGosQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -891,9 +1204,15 @@
       "displayName": "PLAVE",
       "normalizedName": "plave",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "0k2zyzGq6HX383VlMBOvRG"
+        ],
+        "ytmusic": [
+          "UCPZIPuQPrfrUG9Xe_okEmQA"
+        ],
+        "youtube": [
+          "UCPZIPuQPrfrUG9Xe_okEmQA"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -905,8 +1224,12 @@
       "normalizedName": "isegye idol",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCmblbE_WxTaFWcMEGFJ_97w"
+        ],
+        "youtube": [
+          "UCmblbE_WxTaFWcMEGFJ_97w"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -917,9 +1240,15 @@
       "displayName": "aespa",
       "normalizedName": "aespa",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "6YVMFz59CuY7ngCxTxjpxE"
+        ],
+        "ytmusic": [
+          "UC9GtSLeksfK4yuJ_g1lgQbg"
+        ],
+        "youtube": [
+          "UC9GtSLeksfK4yuJ_g1lgQbg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -931,8 +1260,12 @@
       "normalizedName": "ordo",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCOFS6iniJIs-X9ENZFFGVQQ"
+        ],
+        "youtube": [
+          "UCOFS6iniJIs-X9ENZFFGVQQ"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -945,7 +1278,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "confirmed",
@@ -958,7 +1291,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "confirmed",
@@ -970,8 +1303,12 @@
       "normalizedName": "nvp project",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UC-2YJnJfH-hiqEjAcGkEw9A"
+        ],
+        "youtube": [
+          "UC-2YJnJfH-hiqEjAcGkEw9A"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -983,8 +1320,12 @@
       "normalizedName": "project v",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCTWqyV-oYxtTeBHjyM5n8OA"
+        ],
+        "youtube": [
+          "UCTWqyV-oYxtTeBHjyM5n8OA"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -996,8 +1337,12 @@
       "normalizedName": "sori",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCLGRT4B4IRCempQQj-4ClKA"
+        ],
+        "youtube": [
+          "UCLGRT4B4IRCempQQj-4ClKA"
+        ]
       },
       "type": "artist",
       "reason": "confirmed",
@@ -1009,8 +1354,12 @@
       "normalizedName": "ninezero",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCIyDauMaOCDOeroQKJaVpwg"
+        ],
+        "youtube": [
+          "UCIyDauMaOCDOeroQKJaVpwg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -1023,7 +1372,7 @@
       "platformIds": {
         "spotify": [],
         "ytmusic": [],
-        "applemusic": []
+        "youtube": []
       },
       "type": "artist",
       "reason": "reported",
@@ -1035,8 +1384,12 @@
       "normalizedName": "true damage",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "ytmusic": [
+          "UCPzwa-Oo0vGbg8jUWILMYPg"
+        ],
+        "youtube": [
+          "UCPzwa-Oo0vGbg8jUWILMYPg"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -1047,9 +1400,15 @@
       "displayName": "Pentakill",
       "normalizedName": "pentakill",
       "platformIds": {
-        "spotify": [],
-        "ytmusic": [],
-        "applemusic": []
+        "spotify": [
+          "2qcGTB5s2t9o2w9SrI719s"
+        ],
+        "ytmusic": [
+          "UCv76mBRf2VlY0nMoY9zC0cg"
+        ],
+        "youtube": [
+          "UCv76mBRf2VlY0nMoY9zC0cg"
+        ]
       },
       "type": "artist",
       "reason": "reported",

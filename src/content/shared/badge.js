@@ -10,6 +10,7 @@
     host.setAttribute('data-aiml', '1');
     host.setAttribute('role', 'img');
     host.setAttribute('aria-label', tooltip || 'AI-generated');
+    host.style.display = 'inline-block';
 
     const shadow = host.attachShadow({ mode: 'closed' });
     const style = document.createElement('style');

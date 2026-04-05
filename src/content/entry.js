@@ -8,7 +8,7 @@
     const host = location.hostname;
     if (host === 'open.spotify.com') return platforms.spotify;
     if (host === 'music.youtube.com') return platforms.ytmusic;
-    if (host === 'music.apple.com') return platforms.applemusic;
+    if (host === 'www.youtube.com') return platforms.youtube;
     return null;
   }
 
