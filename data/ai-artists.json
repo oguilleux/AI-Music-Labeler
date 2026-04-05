@@ -1856,6 +1856,58 @@
       "reason": "reported",
       "source": "https://music.youtube.com/playlist?list=OLAK5uy_mVts3B5XmxTVchoEwGZxWO71iNffsyMkw",
       "notes": "Channel featured in auto-generated YTM 'Vidéos' playlist (29 ~12s clips) of suspected AI-generated music (2026)."
+    },
+    {
+      "displayName": "Imani Dawn",
+      "normalizedName": "imani dawn",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "youtube": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://soapparently.substack.com/p/i-fell-for-an-ai-artist-chances-are-you-probably-have-too",
+      "notes": "Surfaced via Spotify Discover Weekly with track 'Hold You in this Calm' (Spotify track 6lARsxv4uO2DzyJc8cViIX); AI-generated neo-soul artist, flagged by suspicious profile photo and generic bio (2026)."
+    },
+    {
+      "displayName": "Tokyo Lab Chill",
+      "normalizedName": "tokyo lab chill",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "youtube": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://soapparently.substack.com/p/i-fell-for-an-ai-artist-chances-are-you-probably-have-too",
+      "notes": "Named as suspected AI artist on Spotify (2026)."
+    },
+    {
+      "displayName": "Aurora Lane",
+      "normalizedName": "aurora lane",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "youtube": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://soapparently.substack.com/p/i-fell-for-an-ai-artist-chances-are-you-probably-have-too",
+      "notes": "Named as suspected AI artist on Spotify (2026)."
+    },
+    {
+      "displayName": "Sonya",
+      "normalizedName": "sonya",
+      "platformIds": {
+        "spotify": [],
+        "ytmusic": [],
+        "youtube": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://soapparently.substack.com/p/i-fell-for-an-ai-artist-chances-are-you-probably-have-too",
+      "notes": "Named as suspected AI artist on Spotify (2026)."
     }
   ]
 }
