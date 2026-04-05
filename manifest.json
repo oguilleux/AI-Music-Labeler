@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "description": "Adds an \"AI\" badge next to AI-generated artists on Spotify, YouTube Music and YouTube.",
   "permissions": ["storage"],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
   "host_permissions": [
     "https://open.spotify.com/*",
     "https://music.youtube.com/*",

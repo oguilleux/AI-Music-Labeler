@@ -5,6 +5,7 @@
 
   const { store, badge, normalize } = window.AIML;
   const PROCESSED_ATTR = 'data-aiml-processed';
+  const BADGED_ATTR = 'data-aiml-badged';
 
   function scan(roots, platform) {
     if (!store.isEnabled() || !store.isLoaded()) return 0;
@@ -14,6 +15,7 @@
       const candidates = platform.findCandidates(root);
       for (const c of candidates) {
         if (!c.element || c.element.getAttribute(PROCESSED_ATTR) === '1') continue;
+        if (c.element.getAttribute(BADGED_ATTR) === '1') continue;
         if (!c.name && !c.platformId) continue;
 
         const keys = [];
@@ -29,25 +31,36 @@
         c.element.setAttribute(PROCESSED_ATTR, '1');
         if (!entry) continue;
 
-        // Already badged? (e.g. parent already processed)
+        const target = c.insertAfter || c.element;
+
+        // Already badged? (e.g. parent already processed or prior scan)
+        if (target.getAttribute && target.getAttribute(BADGED_ATTR) === '1') continue;
         if (c.element.querySelector(':scope > .aiml-badge-host') ||
             (c.element.nextElementSibling && c.element.nextElementSibling.classList && c.element.nextElementSibling.classList.contains('aiml-badge-host'))) {
+          if (target.setAttribute) target.setAttribute(BADGED_ATTR, '1');
+          c.element.setAttribute(BADGED_ATTR, '1');
           continue;
         }
 
         const tooltip = `AI-generated${entry.notes ? ' — ' + entry.notes : ''}`;
         const b = badge.createBadge({ reason: entry.reason || 'seed', tooltip });
-        const target = c.insertAfter || c.element;
         try {
           if (c.placement === 'append') {
             target.appendChild(b);
           } else {
             target.insertAdjacentElement('afterend', b);
           }
+          if (target.setAttribute) target.setAttribute(BADGED_ATTR, '1');
+          c.element.setAttribute(BADGED_ATTR, '1');
           added++;
         } catch (e) {
           // insertion target may not support the preferred placement -> append as child
-          try { target.appendChild(b); added++; } catch (_) {}
+          try {
+            target.appendChild(b);
+            if (target.setAttribute) target.setAttribute(BADGED_ATTR, '1');
+            c.element.setAttribute(BADGED_ATTR, '1');
+            added++;
+          } catch (_) {}
         }
       }
     }
@@ -57,6 +70,7 @@
   function clearBadges() {
     document.querySelectorAll('.aiml-badge-host').forEach((n) => n.remove());
     document.querySelectorAll('[' + PROCESSED_ATTR + ']').forEach((n) => n.removeAttribute(PROCESSED_ATTR));
+    document.querySelectorAll('[' + BADGED_ATTR + ']').forEach((n) => n.removeAttribute(BADGED_ATTR));
   }
 
   window.AIML.labeler = { scan, clearBadges };

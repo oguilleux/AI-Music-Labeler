@@ -3,6 +3,25 @@
 
 const DATASET_URL = chrome.runtime.getURL('data/ai-artists.json');
 const STORAGE_KEYS = { dataset: 'dataset', enabled: 'enabled', lastLoaded: 'lastLoaded' };
+const ALLOWED_SENDER_HOSTS = new Set([
+  'open.spotify.com',
+  'music.youtube.com',
+  'www.youtube.com',
+]);
+
+function isTrustedSender(sender) {
+  if (!sender) return false;
+  // Messages from our own popup/options have an id matching the extension and no tab.
+  if (sender.id && sender.id === chrome.runtime.id && !sender.tab) return true;
+  // Messages from content scripts must come from a whitelisted host.
+  if (!sender.url) return false;
+  try {
+    const u = new URL(sender.url);
+    return u.protocol === 'https:' && ALLOWED_SENDER_HOSTS.has(u.hostname);
+  } catch (_) {
+    return false;
+  }
+}
 
 async function loadBundledDataset() {
   const res = await fetch(DATASET_URL);
@@ -60,8 +79,12 @@ chrome.runtime.onStartup.addListener(async () => {
   try { await getDataset(); } catch (e) { console.error('[AIML] startup load error', e); }
 });
 
-chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
+chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
   if (!msg || !msg.type) return;
+  if (!isTrustedSender(sender)) {
+    sendResponse({ ok: false, error: 'untrusted sender' });
+    return;
+  }
 
   (async () => {
     try {

@@ -32,9 +32,13 @@
       handle.forceScan();
     });
 
-    // Listen to toggle messages from the popup.
-    chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
+    // Listen to toggle messages from the popup (via background service worker).
+    chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
       if (!msg || !msg.type) return;
+      // Only accept messages originating from our own extension (background/popup).
+      // Messages from other content scripts or web pages have sender.tab set or a
+      // mismatched id and must be rejected.
+      if (!sender || sender.id !== chrome.runtime.id || sender.tab) return;
       if (msg.type === 'SET_ENABLED') {
         store.setEnabled(!!msg.enabled);
         if (!msg.enabled) {
