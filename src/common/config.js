@@ -7,7 +7,7 @@
     config: {
       version: '0.1.0',
       badgeText: 'AI',
-      badgeColor: '#7c3aed',
+      badgeColor: '#dc2626',
       debugLog: false,
     },
   };
