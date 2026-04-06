@@ -1979,6 +1979,47 @@
       "reason": "reported",
       "source": "https://open.spotify.com/intl-fr/artist/1LDqqJkzcEumhV65KZZytK",
       "notes": "Reported as suspected AI artist (2026)."
+    },
+    {
+      "displayName": "Scarlyy2",
+      "normalizedName": "scarlyy2",
+      "platformIds": {
+        "spotify": [
+          "0yAKfiVI1GaywLcL8TGZWf"
+        ],
+        "ytmusic": [
+          "UCyyb8x2ObVX99_A9--j1YLA"
+        ],
+        "youtube": [
+          "UCyyb8x2ObVX99_A9--j1YLA"
+        ]
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://open.spotify.com/intl-fr/artist/0yAKfiVI1GaywLcL8TGZWf",
+      "notes": "Confirmed AI artist by user. Script verdict: LIKELY_HUMAN (MEDIUM) — overridden."
+    },
+    {
+      "displayName": "Un jour une Maman",
+      "normalizedName": "un jour une maman",
+      "platformIds": {
+        "deezer": [
+          "346193101"
+        ],
+        "spotify": [
+          "2kxdwJoJd8ZWBIJzOhY4GU"
+        ],
+        "ytmusic": [
+          "UCv9NUnz3tYfeajRcm3ehYYg"
+        ],
+        "youtube": [
+          "UCv9NUnz3tYfeajRcm3ehYYg"
+        ]
+      },
+      "type": "artist",
+      "reason": "verified",
+      "source": "https://www.deezer.com/fr/artist/346193101",
+      "notes": "AI artist detected via Deezer album label 'Mon Son Sur Mesure'. Script verdict: AI (HIGH)."
     }
   ]
 }

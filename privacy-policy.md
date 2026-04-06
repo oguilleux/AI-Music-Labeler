@@ -35,4 +35,4 @@ The extension does not use any remote code. All JavaScript and data are included
 
 ## Contact
 
-For any questions: olivier.guilleux@gmail.com
+For any questions: extension@olivier-guilleux.com
