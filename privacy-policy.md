@@ -32,7 +32,3 @@ The extension injects content scripts into Spotify, YouTube Music, and YouTube t
 ## Remote code
 
 The extension does not use any remote code. All JavaScript and data are included in the extension package.
-
-## Contact
-
-For any questions: extension@olivier-guilleux.com
