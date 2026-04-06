@@ -1371,8 +1371,12 @@
       "normalizedName": "kda",
       "platformIds": {
         "spotify": [],
-        "ytmusic": [],
-        "youtube": []
+        "ytmusic": [
+          "UC_ArmeO-1oHeWWqb14o3W3A"
+        ],
+        "youtube": [
+          "UC_ArmeO-1oHeWWqb14o3W3A"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -1885,8 +1889,12 @@
         "spotify": [
           "5KjACf3hRBih15vDJRwkU7"
         ],
-        "ytmusic": [],
-        "youtube": []
+        "ytmusic": [
+          "UCzZ3X3NaJ0kKU3CZsqtwYeQ"
+        ],
+        "youtube": [
+          "UCzZ3X3NaJ0kKU3CZsqtwYeQ"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -1919,8 +1927,12 @@
         "spotify": [
           "7toAYyXSQZh3yXAe7rqZUM"
         ],
-        "ytmusic": [],
-        "youtube": []
+        "ytmusic": [
+          "UCuU7uU9wU4nqjlU0ciWw0CA"
+        ],
+        "youtube": [
+          "UCuU7uU9wU4nqjlU0ciWw0CA"
+        ]
       },
       "type": "artist",
       "reason": "reported",
@@ -2020,6 +2032,118 @@
       "reason": "verified",
       "source": "https://www.deezer.com/fr/artist/346193101",
       "notes": "AI artist detected via Deezer album label 'Mon Son Sur Mesure'. Script verdict: AI (HIGH)."
+    },
+    {
+      "displayName": "Mitsu",
+      "normalizedName": "mitsu",
+      "platformIds": {
+        "spotify": [
+          "0UtDMY40s91y1EVaBm79RE"
+        ],
+        "deezer": [
+          "1207046"
+        ],
+        "ytmusic": [
+          "UCE6boYgC8kv-C-5vH2juNCA"
+        ],
+        "youtube": [
+          "UCE6boYgC8kv-C-5vH2juNCA"
+        ]
+      },
+      "type": "artist",
+      "reason": "override",
+      "source": "https://open.spotify.com/artist/0UtDMY40s91y1EVaBm79RE",
+      "notes": "Manually added by user override. Script verdict: HUMAN (HIGH) — MB:Person (Kevin Ross), Dz."
+    },
+    {
+      "displayName": "Zenaya",
+      "normalizedName": "zenaya",
+      "platformIds": {
+        "spotify": [
+          "3Y2WfjW1mPQrCNtEgTbIDR"
+        ],
+        "deezer": [
+          "197886487"
+        ],
+        "ytmusic": [
+          "UCbf0Ncx1U752KNhaHhCSiOQ"
+        ],
+        "youtube": [
+          "UCbf0Ncx1U752KNhaHhCSiOQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "override",
+      "source": "https://open.spotify.com/artist/3Y2WfjW1mPQrCNtEgTbIDR",
+      "notes": "Manually added by user override. Script verdict: LIKELY_HUMAN (MEDIUM) — Dz."
+    },
+    {
+      "displayName": "ParoleSonore",
+      "normalizedName": "parolesonore",
+      "platformIds": {
+        "spotify": [
+          "0pmrw75t7qOENQbuMG0kMw"
+        ],
+        "deezer": [
+          "355624312"
+        ],
+        "ytmusic": [
+          "UCiZurUS8EneNMtvWvoAwt8w"
+        ],
+        "youtube": [
+          "UCiZurUS8EneNMtvWvoAwt8w"
+        ]
+      },
+      "type": "artist",
+      "reason": "override",
+      "source": "https://open.spotify.com/artist/0pmrw75t7qOENQbuMG0kMw",
+      "notes": "Manually added by user override. Script verdict: LIKELY_HUMAN (MEDIUM) — Dz."
+    },
+    {
+      "displayName": "LREV",
+      "normalizedName": "lrev",
+      "platformIds": {
+        "spotify": [
+          "2mCmMvCxKRCsChzJXP7pXT"
+        ],
+        "deezer": [
+          "10035122"
+        ],
+        "ytmusic": [
+          "UCDXcLB5zvAN9ssol8Y0i-jQ"
+        ],
+        "youtube": [
+          "UCDXcLB5zvAN9ssol8Y0i-jQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "override",
+      "source": "https://open.spotify.com/artist/2mCmMvCxKRCsChzJXP7pXT",
+      "notes": "Manually added by user override. Script verdict: HUMAN (HIGH) — MB, Dz."
+    },
+    {
+      "displayName": "BeBe Nyte",
+      "normalizedName": "bebe nyte",
+      "platformIds": {
+        "spotify": [
+          "0UU1eclyDg4QoKk61oRatq"
+        ],
+        "deezer": [
+          "333868851"
+        ],
+        "ytmusic": [
+          "UCsxhEX6MSm7_AHoyIj1yFQw",
+          "UCtFOsO19krXPLGQwfW_ojSw"
+        ],
+        "youtube": [
+          "UCsxhEX6MSm7_AHoyIj1yFQw",
+          "UCtFOsO19krXPLGQwfW_ojSw"
+        ]
+      },
+      "type": "artist",
+      "reason": "override",
+      "source": "https://music.youtube.com/channel/UCsxhEX6MSm7_AHoyIj1yFQw",
+      "notes": "Confirmed pure AI by user. Script verdict: LIKELY_HUMAN (MEDIUM) — no MB, Dz indexed, 2 human web mentions."
     }
   ]
 }
