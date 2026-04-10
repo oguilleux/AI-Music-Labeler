@@ -2144,6 +2144,28 @@
       "reason": "override",
       "source": "https://music.youtube.com/channel/UCsxhEX6MSm7_AHoyIj1yFQw",
       "notes": "Confirmed pure AI by user. Script verdict: LIKELY_HUMAN (MEDIUM) — no MB, Dz indexed, 2 human web mentions."
+    },
+    {
+      "displayName": "Eduardo Arguelles",
+      "normalizedName": "eduardo arguelles",
+      "platformIds": {
+        "spotify": [
+          "31eKh8MQvEVsoTilTM1aCB"
+        ],
+        "deezer": [
+          "10446400"
+        ],
+        "youtube": [
+          "UCRai1jXw_WXrW81LbVaRuZQ"
+        ],
+        "ytmusic": [
+          "UCRai1jXw_WXrW81LbVaRuZQ"
+        ]
+      },
+      "type": "artist",
+      "reason": "override",
+      "source": "https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/",
+      "notes": "AI clone of Benedict Cork's song, uploaded by a scammer. Confirmed by Time article (2026-03-26). Script verdict: LIKELY_HUMAN (MEDIUM) — no MB, Dz indexed, 4 human web mentions. Apple Music ID: 1808850462 (https://music.apple.com/es/artist/eduardo-arguelles/1808850462)."
     }
   ]
 }
