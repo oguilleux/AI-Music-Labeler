@@ -77349,6 +77349,25 @@
       "reason": "reported",
       "source": "https://github.com/CennoxX/spotify-ai-blocker",
       "notes": "Imported from CennoxX/spotify-ai-blocker (SpotifyAiArtists.csv). Confirmed AI-generated artist on Spotify."
+    },
+    {
+      "displayName": "GiGi Waterproof",
+      "normalizedName": "gigi waterproof",
+      "platformIds": {
+        "spotify": [
+          "7t3Jp0mfVdxoY9oMUoN9vt"
+        ],
+        "ytmusic": [],
+        "youtube": [],
+        "deezer": [
+          "280612751"
+        ],
+        "appleMusic": []
+      },
+      "type": "artist",
+      "reason": "reported",
+      "source": "https://open.spotify.com/artist/7t3Jp0mfVdxoY9oMUoN9vt",
+      "notes": "Added manually. Verify verdict: LIKELY_HUMAN (MEDIUM) — no MB match, Deezer indexed, no AI signals detected."
     }
   ]
 }
