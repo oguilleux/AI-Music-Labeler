@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-04-13",
+  "updated": "2026-04-28",
   "entries": [
     {
       "displayName": "BeatRush",
@@ -81208,6 +81208,31 @@
       "reason": "reported",
       "source": "https://open.spotify.com/artist/7t3Jp0mfVdxoY9oMUoN9vt",
       "notes": "Added manually. Verify verdict: LIKELY_HUMAN (MEDIUM) — no MB match, Deezer indexed, no AI signals detected."
+    },
+    {
+      "displayName": "Willylancien",
+      "normalizedName": "willylancien",
+      "platformIds": {
+        "deezer": [
+          "380656181"
+        ],
+        "spotify": [
+          "3gzMRa6kszVHxXUiTpHFWb"
+        ],
+        "ytmusic": [
+          "UC9v2_lYf6QKSD3FnSWxa11A"
+        ],
+        "youtube": [
+          "UC9v2_lYf6QKSD3FnSWxa11A"
+        ],
+        "appleMusic": [
+          "1886728001"
+        ]
+      },
+      "type": "artist",
+      "reason": "verified",
+      "source": "https://www.deezer.com/fr/artist/380656181",
+      "notes": "Script verdict: LIKELY_HUMAN (MEDIUM)."
     }
   ]
 }

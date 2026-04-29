@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "AI Music Labeler",
-  "version": "0.1.2",
+  "name": "AI Music Badge",
+  "version": "0.1.4",
   "description": "Adds an \"AI\" badge next to AI-generated artists on Spotify, YouTube Music and YouTube.",
   "permissions": [
     "storage"
